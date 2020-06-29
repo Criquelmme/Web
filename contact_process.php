@@ -2,7 +2,7 @@
 
     $to = "criquelmemoreno@gmail.com";
     $from = $_REQUEST['email'];
-    $name = $_REQUEST['name'];
+    $name = $_REQUEST['namse'];
     $subject = $_REQUEST['subject'];
     $number = $_REQUEST['number'];
     $cmessage = $_REQUEST['message'];
